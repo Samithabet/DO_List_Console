@@ -1,0 +1,8 @@
+D:\مجلد جديد\do_list\do_list\bin\Debug\do_list.exe.config
+D:\مجلد جديد\do_list\do_list\bin\Debug\do_list.exe
+D:\مجلد جديد\do_list\do_list\bin\Debug\do_list.pdb
+D:\مجلد جديد\do_list\do_list\obj\Debug\do_list.csproj.AssemblyReference.cache
+D:\مجلد جديد\do_list\do_list\obj\Debug\do_list.csproj.SuggestedBindingRedirects.cache
+D:\مجلد جديد\do_list\do_list\obj\Debug\do_list.csproj.CoreCompileInputs.cache
+D:\مجلد جديد\do_list\do_list\obj\Debug\do_list.exe
+D:\مجلد جديد\do_list\do_list\obj\Debug\do_list.pdb
